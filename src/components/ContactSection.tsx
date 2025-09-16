@@ -78,9 +78,11 @@ export const ContactSection = () => {
                   <div className="ml-4">
                     <p className="text-gray-900 font-medium">Office Location</p>
                     <p className="text-gray-600">
-                      1200 Brickell Avenue, Suite 800
+                      120 Bishops Way
                     </p>
-                    <p className="text-gray-600">Miami, FL</p>
+                    <p className="text-gray-600">Ste 130</p>
+                    <p className="text-gray-600">Brookfield, WI 53005</p>
+                    <p className="text-gray-600">United States</p>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -91,7 +93,7 @@ export const ContactSection = () => {
                   </div>
                   <div className="ml-4">
                     <p className="text-gray-900 font-medium">Phone</p>
-                    <p className="text-gray-600">(305) 555-7890</p>
+                    <p className="text-gray-600">(708) 441-9613</p>
                   </div>
                 </div>
                 <div className="flex items-start">

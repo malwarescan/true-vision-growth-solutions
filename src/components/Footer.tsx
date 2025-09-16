@@ -109,10 +109,12 @@ export const Footer = () => {
           <div className="md:col-span-2">
             <h3 className="text-lg font-semibold mb-4 text-white">Contact</h3>
             <address className="not-italic text-gray-400 text-sm space-y-3">
-              <p>1200 Brickell Avenue, Suite 800</p>
-              <p>Miami, FL</p>
+              <p>120 Bishops Way</p>
+              <p>Ste 130</p>
+              <p>Brookfield, WI 53005</p>
+              <p>United States</p>
               <p>hello@truevisiongrowth.com</p>
-              <p>(305) 555-7890</p>
+              <p>(708) 441-9613</p>
             </address>
           </div>
         </div>

@@ -93,9 +93,13 @@ export const PrivacyPolicy = () => {
         <p>
           True Vision Growth Solutions Inc.
           <br />
-          1200 Brickell Avenue, Suite 800
+          120 Bishops Way
           <br />
-          Miami, FL
+          Ste 130
+          <br />
+          Brookfield, WI 53005
+          <br />
+          United States
           <br />
           Email: privacy@truevisiongrowth.com
         </p>
